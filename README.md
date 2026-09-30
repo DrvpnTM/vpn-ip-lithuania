@@ -1,18 +1,17 @@
-# VPN IP Lithuania — Dr VPN
+# VPN IP Lithuania — Fast, Secure VPN for Lithuania
 
-**VPN IP Lithuania** is a fast, secure and free VPN for Android. Get a **Lithuania IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Lithuania** is a free, open-source, ad-free VPN app for Android, built for users in Lithuania. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Lithuania (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_lt_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-lithuania/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Lithuania IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Lithuania, Lithuania VPN, VPN IP Lithuania, Lithuania IP address, free VPN Lithuania, buy VPN Lithuania, fast VPN Lithuania, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Lithuania, free VPN Lithuania, fast VPN, VPN IP Lithuania, Android VPN, unblock websites Lithuania.</sub>
